@@ -151,15 +151,26 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
       }
 
       // number
-      if (RegExp(r'[0-9.]').hasMatch(expr[i])) {
-        String num = '';
-        while (i < expr.length &&
-            RegExp(r'[0-9.]').hasMatch(expr[i])) {
-          num += expr[i++];
-        }
-        nums.add(double.parse(num));
-        continue;
-      }
+     if (RegExp(r'[0-9.]').hasMatch(expr[i]) ||
+    (expr[i] == '-' &&
+     (i == 0 || expr[i - 1] == '(' || '+-*/'.contains(expr[i - 1])))) {
+
+  String num = '';
+
+  // nếu là số âm
+  if (expr[i] == '-') {
+    num += '-';
+    i++;
+  }
+
+  while (i < expr.length &&
+      RegExp(r'[0-9.]').hasMatch(expr[i])) {
+    num += expr[i++];
+  }
+
+  nums.add(double.parse(num));
+  continue;
+}
 
       // (
       if (expr[i] == '(') {
