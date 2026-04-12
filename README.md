@@ -1,17 +1,18 @@
-# calculator_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1919" height="1019" alt="Screenshot 2026-04-12 160658" src="https://github.com/user-attachments/assets/531a1cb8-bd15-4f49-8411-dd6665fd6d8f" />
+<img width="438" height="824" alt="Screenshot 2026-04-12 160815" src="https://github.com/user-attachments/assets/c85b7313-a14d-4b59-bc5f-4e6e7f35fd01" />
+<img width="405" height="823" alt="Screenshot 2026-04-12 160840" src="https://github.com/user-attachments/assets/c0c48ac7-249a-4214-98db-c769546f4f49" />
+<img width="403" height="812" alt="Screenshot 2026-04-12 160859" src="https://github.com/user-attachments/assets/51aa25f2-e2f4-4e61-9d91-74816fc69115" />
+<img width="433" height="815" alt="Screenshot 2026-04-12 160914" src="https://github.com/user-attachments/assets/e2c34c13-99f7-49c3-801c-61a7dbaff07c" />
+<img width="426" height="800" alt="Screenshot 2026-04-12 160934" src="https://github.com/user-attachments/assets/cc9cb58d-74dc-4714-8321-b586aa92a309" />
+<img width="398" height="812" alt="Screenshot 2026-04-12 160956" src="https://github.com/user-attachments/assets/f31f2097-8dbe-4fe4-a8a7-ab365e625df3" />
+<img width="413" height="818" alt="Screenshot 2026-04-12 161010" src="https://github.com/user-attachments/assets/87b3109c-7365-482e-8400-34879b2df113" />
+<img width="415" height="813" alt="Screenshot 2026-04-12 161033" src="https://github.com/user-attachments/assets/cff1fd3c-f5cd-4770-b7e7-a50e8ebfe3a5" />
+<img width="423" height="811" alt="Screenshot 2026-04-12 161050" src="https://github.com/user-attachments/assets/c9682709-1c10-4dd0-9343-2eb7ef803fab" />
+<img width="420" height="815" alt="Screenshot 2026-04-12 161132" src="https://github.com/user-attachments/assets/6cdaaa08-fd40-443f-8d05-dae62de1315c" />
+<img width="421" height="811" alt="Screenshot 2026-04-12 161212" src="https://github.com/user-attachments/assets/56dbc678-947c-4739-a5d0-320919500aeb" />
+<img width="387" height="790" alt="Screenshot 2026-04-12 161236" src="https://github.com/user-attachments/assets/f72229ee-5f11-4f9c-bd71-eabb7cb3b9a4" />
+<img width="383" height="805" alt="Screenshot 2026-04-12 161256" src="https://github.com/user-attachments/assets/19ef1255-98b4-41c1-ba30-ade02bdf4875" />
+<img width="402" height="811" alt="Screenshot 2026-04-12 161324" src="https://github.com/user-attachments/assets/e5e30434-d6ef-4e0d-80c1-280c358cfa3a" />
+<img width="387" height="822" alt="Screenshot 2026-04-12 161639" src="https://github.com/user-attachments/assets/83c81184-ae78-4de9-83fc-9e490ee4c526" />
+<img width="387" height="822" alt="Screenshot 2026-04-12 161639" src="https://github.com/user-attachments/assets/005aa678-59a6-40bb-b4ad-9571739cb52b" />
+<img width="447" height="825" alt="Screenshot 2026-04-12 161655" src="https://github.com/user-attachments/assets/d0bc7026-81da-45e1-95cf-92d4e96a5dac" />
